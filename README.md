@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">Developer from India, interested in Mobile App and Backend Development</h3>
 
-- 💻  Working as **Mobile Engineer Inter**
+- 💻  Working as **Software Engineer**
 
 - 🌱 I’m currently learning **Fullstack development using MERN**
+  
+- 🎨 Sometimes like to **design** stuff
 
 - 💬 Like to talk about **Consumer Tech**
 
